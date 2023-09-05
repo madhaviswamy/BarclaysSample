@@ -6,4 +6,7 @@ I hope this works
 
 Test Number 2
 
+Test number 3
+This is to check if everything is okay
+
 Signing off
