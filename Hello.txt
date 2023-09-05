@@ -4,4 +4,6 @@ This is a test file
 
 I hope this works
 
+Test Number 2
+
 Signing off
